@@ -3,9 +3,13 @@ Cite: Silva, J.C.F.; Ferreira, M.A.; Carvalho, T.F.M.; Silva, F.F.; de A. Silvei
 
 # Instalation
 pip install pandas
+
 pip install numpy
+
 pip install pymc3
+
 pip install biopython
+
 
 # Usage
 
