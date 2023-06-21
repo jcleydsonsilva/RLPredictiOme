@@ -8,10 +8,15 @@ pip install pymc3
 pip install biopython
 
 # Usage
+
 python RLPredictiOme.py sequence.fasta best_models.txt
 
 input:
+
 Fasta file: sequence.fasta
+
 Txt file: best_models.txt
+
 output:
+
 sequence.fasta_predictions.tsv
